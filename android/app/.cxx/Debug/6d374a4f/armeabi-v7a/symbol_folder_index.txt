@@ -1,0 +1,1 @@
+/home/lenovo/Documents/GitHub/flutter-artivaa/build/app/intermediates/cxx/Debug/6d374a4f/obj/armeabi-v7a

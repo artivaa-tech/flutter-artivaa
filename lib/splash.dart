@@ -1,6 +1,6 @@
 import 'dart:async';
+import 'package:artivaa/presentation/auth/login_page.dart';
 import 'package:flutter/material.dart';
-import 'login_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -22,12 +22,12 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       backgroundColor: Colors.blue,
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
+          children: [
             Icon(Icons.flash_on, size: 100, color: Colors.white),
             SizedBox(height: 20),
             Text(

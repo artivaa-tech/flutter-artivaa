@@ -1,0 +1,1 @@
+/home/lenovo/Documents/GitHub/flutter-artivaa/build/app/intermediates/cxx/RelWithDebInfo/2m2e5f3b/obj/x86
