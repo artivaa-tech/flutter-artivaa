@@ -1,0 +1,2 @@
+/home/lenovo/AndroidStudioProjects/artivaa/android/app/.cxx/Debug/i6dc1r30/x86/CMakeFiles/edit_cache.dir
+/home/lenovo/AndroidStudioProjects/artivaa/android/app/.cxx/Debug/i6dc1r30/x86/CMakeFiles/rebuild_cache.dir

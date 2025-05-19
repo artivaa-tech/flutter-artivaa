@@ -1,0 +1,1 @@
+/home/lenovo/AndroidStudioProjects/artivaa/build/app/intermediates/cxx/Debug/i6dc1r30/obj/x86_64
