@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:shimmer/shimmer.dart';
+import '../../res.dart';
 import '../constants/app_constants.dart';
 import '../theme/colors.theme.dart';
 import '../theme/text.theme.dart';

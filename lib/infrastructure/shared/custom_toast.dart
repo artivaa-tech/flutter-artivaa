@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
+import '../../res.dart';
 import '../theme/colors.theme.dart';
 import '../theme/text.theme.dart';
 

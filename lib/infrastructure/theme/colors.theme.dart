@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hexcolor/hexcolor.dart';
+
+import 'hex_color.dart';
 
 class ColorsTheme {
 
